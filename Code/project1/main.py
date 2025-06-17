@@ -10,7 +10,6 @@ import numpy as np
 import torch
 from torch.utils.data import DataLoader, DistributedSampler
 
-import datasets
 import util.misc as utils
 from datasets import build_dataset, get_coco_api_from_dataset
 from engine import evaluate, train_one_epoch
@@ -159,7 +158,7 @@ def main(args):
 
     if args.dataset_file == "coco_panoptic":
         # We also evaluate AP during panoptic training, on original coco DS
-        coco_val = datasets.coco.build("val", args)
+        coco_val = Code.project1.datasets.coco.build("val", args)
         base_ds = get_coco_api_from_dataset(coco_val)
     else:
         base_ds = get_coco_api_from_dataset(dataset_val)

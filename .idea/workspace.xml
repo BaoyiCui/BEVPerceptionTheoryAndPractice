@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efca21de-2974-497b-b78e-8af494188bbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/project1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/project1/d2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/d2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/d2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/d2/configs/detr_256_6_6_torchvision.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/d2/configs/detr_256_6_6_torchvision.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/d2/configs/detr_segm_256_6_6_torchvision.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/d2/configs/detr_segm_256_6_6_torchvision.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/d2/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/d2/converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/d2/detr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/d2/detr/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/d2/detr/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/d2/detr/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/d2/detr/dataset_mapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/d2/detr/dataset_mapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/d2/detr/detr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/d2/detr/detr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/d2/train_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/d2/train_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/datasets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/datasets/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/datasets/coco.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/datasets/coco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/datasets/coco_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/datasets/coco_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/datasets/coco_panoptic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/datasets/coco_panoptic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/datasets/panoptic_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/datasets/panoptic_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/datasets/transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/datasets/transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/hubconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/hubconf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/models/backbone.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/models/backbone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/models/detr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/models/detr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/models/matcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/models/matcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/models/position_encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/models/position_encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/models/segmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/models/segmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/models/transformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/models/transformer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/run_with_submitit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/run_with_submitit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/test_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/test_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/tox.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/tox.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/util/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/util/box_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/util/box_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/util/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/util/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/Code/project1/util/plot_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/project1/util/plot_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 Vision Transformer/DETR：End-to-End Object Detection with Transformers.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/DETR：End-to-End Object Detection with Transformers.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BaoyiCui&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:BaoyiCui/BEVPerceptionTheoryAndPractice.git&quot;,
+    &quot;accountId&quot;: &quot;5d894c8c-4488-4fbe-96ab-d607b6436f7c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2yckC8Qo8kLWJf3eQnyB2XVnEOu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Project1ViT",
+    "last_opened_file_path": "C:/Users/Baoyi Cui/Desktop/BEVPerceptionTheoryAndPractice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Baoyi Cui\Desktop\BEVPerceptionTheoryAndPractice" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efca21de-2974-497b-b78e-8af494188bbd" name="Changes" comment="" />
+      <created>1750141118965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750141118965</updated>
+      <workItem from="1750141120076" duration="774000" />
+      <workItem from="1750142186157" duration="240000" />
+      <workItem from="1750142443916" duration="294000" />
+      <workItem from="1750142756524" duration="487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
