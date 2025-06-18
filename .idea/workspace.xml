@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efca21de-2974-497b-b78e-8af494188bbd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BEVPerceptionTheoryAndPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BEVPerceptionTheoryAndPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project1/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/d2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/d2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/d2/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/d2/configs/detr_256_6_6_torchvision.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/d2/configs/detr_256_6_6_torchvision.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/d2/configs/detr_segm_256_6_6_torchvision.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/d2/configs/detr_segm_256_6_6_torchvision.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/d2/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2/converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/d2/detr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2/detr/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/d2/detr/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2/detr/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/d2/detr/dataset_mapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2/detr/dataset_mapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/d2/detr/detr.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2/detr/detr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/d2/train_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2/train_net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/datasets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/datasets/coco.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/coco.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/datasets/coco_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/coco_eval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/datasets/coco_panoptic.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/coco_panoptic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/datasets/panoptic_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/panoptic_eval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/datasets/transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/transforms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/hubconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/hubconf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/models/backbone.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/backbone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/models/detr.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/detr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/models/matcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/matcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/models/position_encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/position_encoding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/models/segmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/segmentation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/models/transformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/transformer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/run_with_submitit.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_with_submitit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/test_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_all.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/tox.ini" beforeDir="false" afterPath="$PROJECT_DIR$/tox.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/util/box_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/box_ops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/util/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/misc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/project1/util/plot_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/plot_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="efca21de-2974-497b-b78e-8af494188bbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +116,7 @@
       <workItem from="1750142443916" duration="294000" />
       <workItem from="1750142756524" duration="2296000" />
       <workItem from="1750174923242" duration="522000" />
-      <workItem from="1750211652798" duration="2181000" />
+      <workItem from="1750211652798" duration="2289000" />
     </task>
     <servers />
   </component>
