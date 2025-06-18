@@ -47,6 +47,7 @@ class Transformer(nn.Module):
     def forward(self, src, mask, query_embed, pos_embed):
         # TODO: 实现 Transformer 模型的前向传播逻辑
         # 1. 将输入展平，将形状从 (bs, c, h, w) 变为 (hw, bs, c)
+        pass
 
         # 2. 初始化需要预测的目标 query embedding
 
@@ -143,6 +144,7 @@ class TransformerEncoderLayer(nn.Module):
         pos: [494, bs, 256]  位置编码
         """
         # TODO: 实现 Transformer 编码器层的前向传播逻辑（参考DETR论文中Section A.3 & Fig.10）
+
         pass 
  
 
